@@ -152,4 +152,8 @@ numpy
 matplotlib
 seaborn
 ```
+## 9. Visualisation
+
+<img width="1787" height="15653" alt="Task_1_BDA (2) ipynb - Colab" src="https://github.com/user-attachments/assets/b6867647-a759-41b8-926b-4575647a5b42" />
+
 (Google Colab's `google.colab.drive` module is only needed if running in Colab; replace Cells 1–2 with a local file path otherwise.)
